@@ -34,7 +34,7 @@
 
 
 ## <a name="deployment"></a>Deployed Link
-* Visit the mobile version of our deployed app here (viewable on iPhone XR): [Compostr](https://master--tubular-starlight-f7d150.netlify.app/)
+* Visit the mobile version of our deployed app here (viewable on iPhone XR): [Compostr](https://compostr.netlify.app/)
 
 ## <a name="nextsteps"></a>Next Steps
 * Connect google map API so that users can find compost sites in any location.  
